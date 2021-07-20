@@ -1,6 +1,6 @@
 ### Solution of Kaggle competition [Ion Switching](https://www.kaggle.com/c/liverpool-ion-switching)
 
-* [EDA](analytics/1. EDA, Time series analysis.ipynb)
+* [EDA](https://github.com/polgrisha/IonSwitchingKaggle/blob/master/analytics/1_EDA.ipynb)
 * Item 2
 * Item 2a
 * Item 2b
