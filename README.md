@@ -13,6 +13,6 @@ team: mipt-stats-Mutolapov-Polyakov
 * [Viterbi algorithm](https://github.com/polgrisha/IonSwitchingKaggle/blob/master/Viterbi.ipynb) (0.930 LB)
 * [LSTM on RandomForest predictions](https://github.com/polgrisha/IonSwitchingKaggle/blob/master/LSTM_stacking.ipynb) (0.939 LB)
 * [WaveNet](https://github.com/polgrisha/IonSwitchingKaggle/blob/master/Wavenet.ipynb) (0.941 LB)
-* [Stacking different models](https://github.com/polgrisha/IonSwitchingKaggle/blob/master/Stacking.ipynb) (MAX 0.940 LB )
+* [Stacking different models](https://github.com/polgrisha/IonSwitchingKaggle/blob/master/Stacking.ipynb) (max 0.940 LB )
 
 
