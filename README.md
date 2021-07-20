@@ -1,6 +1,6 @@
 ## Solution of Kaggle competition [Ion Switching](https://www.kaggle.com/c/liverpool-ion-switching)
 
-team -- mipt-stats-Mutolapov-Polyakov
+team --- mipt-stats-Mutolapov-Polyakov
 
 ### Contents:
 
