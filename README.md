@@ -12,4 +12,4 @@ team: mipt-stats-Mutolapov-Polyakov
 * [CatBoost](https://github.com/polgrisha/IonSwitchingKaggle/blob/master/classic_ml_experiments/model_3_catboost.ipynb) (0.940 LB)
 * [Random forest](https://github.com/polgrisha/IonSwitchingKaggle/blob/master/classic_ml_experiments/6_RandomForest.ipynb) - just for stacking (0.939 LB)
 * [Viterbi algorithm](https://github.com/polgrisha/IonSwitchingKaggle/blob/master/Viterbi.ipynb) (0.930 LB)
-* [LSTM on random forest predictions](https://github.com/polgrisha/IonSwitchingKaggle/blob/master/LSTM_stacking.ipynb) (0.939 LB)
+* [LSTM on RandomForest predictions](https://github.com/polgrisha/IonSwitchingKaggle/blob/master/LSTM_stacking.ipynb) (0.939 LB)
